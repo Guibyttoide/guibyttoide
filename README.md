@@ -6,7 +6,7 @@ I'm Guilherme Bergamo, a UX/UI Designer and Front-end Developer focused on build
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,firebase,vite,git,vercel,ts,sass,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,react,vite,figma,vercel,firebase)](https://skillicons.dev)
 
 ---
 
