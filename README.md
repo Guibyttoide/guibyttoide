@@ -7,5 +7,3 @@ I currently collaborate with Easy.IA. We create incredible services for companie
 ---
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,git,react,vite,figma,vercel,firebase)](https://skillicons.dev)
-
----
