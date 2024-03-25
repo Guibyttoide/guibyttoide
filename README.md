@@ -6,4 +6,4 @@ I currently collaborate with Easy.IA. We create incredible services for companie
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,git,react,vite,figma,vercel,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,next,redux,vue,vite,sass,tailwind,git,figma,vercel,firebase)](https://skillicons.dev)
