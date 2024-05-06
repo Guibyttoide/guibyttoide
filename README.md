@@ -1,6 +1,6 @@
-Hello there 👋
+## Hello there 👋
 
-I'm Guilherme Bergamo, a Front-end Developer and UX/UI Designer focused on building high-quality websites and applications.
+##### I'm Guilherme Bergamo, a Front-end Developer and UX/UI Designer focused on building high-quality websites and applications.
 
 ---
 
