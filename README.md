@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hello there
 
 <p>I'm Guilherme Bergamo, a Front-end Developer and UX/UI Designer focused on building high-quality websites and applications.</p>
 
